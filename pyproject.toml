@@ -6,6 +6,6 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dispatches-surr-training-data" 
+name = "dispatches-dynamic-sweep-data" 
 readme = "README.md"
 dynamic = ["version"]
