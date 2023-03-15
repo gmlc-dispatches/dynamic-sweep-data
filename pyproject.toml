@@ -9,3 +9,6 @@ build-backend = "setuptools.build_meta"
 name = "dispatches-dynamic-sweep-data" 
 readme = "README.md"
 dynamic = ["version"]
+dependencies = [
+    "dispatches-data-packages",
+]
